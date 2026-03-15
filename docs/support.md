@@ -49,4 +49,5 @@ PocketKnife Tools does not collect or store any personal data.
 All your saved preferences, cities, and watchlists are stored locally 
 on your device.
 
-[Read our full Privacy Policy](./PRIVACY.md)
+[Read our full Privacy Policy](./marketing.md)
+
