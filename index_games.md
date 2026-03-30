@@ -9,10 +9,10 @@ PocketKnife Games is a lightweight game console designed to allow users to play 
 
 ## Support
 Need help? Visit our support page:  
-[Support](./docs/support_games.md)
+[Support](./docs/support_games.html)
 
 ## Privacy Policy
 We do not collect personal data on users that have downloaded PocketKnife Games.
 
 Read the full policy here:  
-[Privacy Policy](./docs/marketing_games.md)
+[Privacy Policy](./docs/marketing_games.html)
