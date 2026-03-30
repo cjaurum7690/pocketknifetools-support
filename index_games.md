@@ -7,7 +7,7 @@ PocketKnife Games is a lightweight game console designed to allow users to play 
 - Board Games
 - Puzzle Games
 
-## Support
+## Support Information
 Need help? Visit our support page:  
 [Support](./docs/support_games.md)
 
