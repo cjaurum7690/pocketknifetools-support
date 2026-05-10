@@ -12,9 +12,9 @@ PocketKnife Travel is a lightweight trip planner designed to help travelers orga
 
 ## Support Information
 Need help? Visit our support page:  
-[Support](./docs/support_travel.md)
+[Support](./docs/support_travel.html)
 
 ## Privacy Policy
 We do not collect personal data on users that have downloaded PocketKnife Travel.  
 Read the full policy here:  
-[Privacy Policy](./docs/privacy_travel.md)
+[Privacy Policy](./docs/marketing_travel.html)
