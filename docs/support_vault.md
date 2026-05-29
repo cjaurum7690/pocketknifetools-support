@@ -23,4 +23,4 @@ PocketKnife Vault does not use any third-party SDKs, analytics tools, advertisin
 ## Privacy
 PocketKnife Vault does not collect or store any personal data. All your saved data is stored locally on your device and never shared. 
 
-[Read our full Privacy Policy](./docs/marketing_vault.md)
+[Read our full Privacy Policy](./docs/marketing_vault.html)
