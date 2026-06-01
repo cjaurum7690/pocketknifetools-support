@@ -3,13 +3,11 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>PocketKnife Projects — Project Management for Your Pocket</title>
-  <meta name="description" content="Run your projects from start to finish. Milestones, budget, risks, meetings, and more — all offline, all on your iPhone." />
+  <title>Marketing — PocketKnife Projects</title>
   <style>
     :root {
       --bg: #0e0f11;
       --surface: #1a1b1e;
-      --surface-high: #222428;
       --border: #2a2b2f;
       --accent: #c9a84c;
       --text: #f0f0f0;
