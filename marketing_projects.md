@@ -370,7 +370,7 @@
     <ul class="nav-links">
       <li><a href="#features">Features</a></li>
       <li><a href="#how-it-works">How It Works</a></li>
-      <li><a href="support.html">Support</a></li>
+      <li><a href="https://cjaurum7690.github.io/pocketknifetools-support/support_projects.html">Support</a></li>
     </ul>
   </nav>
 
