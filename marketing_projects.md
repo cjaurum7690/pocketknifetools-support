@@ -364,7 +364,7 @@
 
   <!-- NAV -->
   <nav>
-    <a class="nav-logo" href="#">⚒ POCKETKNIFE PROJECTS</a>
+    <a class="nav-logo">⚒ POCKETKNIFE PROJECTS</a>
     <ul class="nav-links">
       <li><a href="#features">Features</a></li>
       <li><a href="#how-it-works">How It Works</a></li>
