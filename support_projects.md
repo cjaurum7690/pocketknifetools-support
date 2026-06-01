@@ -268,7 +268,7 @@
   </main>
 
   <footer>
-    &copy; 2025 PocketKnife Projects &nbsp;·&nbsp; All rights reserved
+    &copy; 2026 PocketKnife Projects &nbsp;·&nbsp; All rights reserved
   </footer>
 
 </body>
