@@ -376,7 +376,8 @@
   <div class="hero">
     <p class="hero-eyebrow">Available on the App Store</p>
     <h1>Run your projects.<br /><span>Not your subscriptions.</span></h1>
-    <p>A full project management toolkit that lives entirely on your iPhone. No account, no cloud, no monthly fee — just your work, organized.</p>
+    <p>A full project management toolkit that lives entirely on your iPhone or iPad. 
+      No account, no cloud, no monthly fee — just your work, organized.</p>
     <div class="hero-btns">
       <a class="btn-primary" href="#">Download on the App Store</a>
       <a class="btn-secondary" href="#features">See what's inside</a>
