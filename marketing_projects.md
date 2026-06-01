@@ -496,7 +496,7 @@
 
   <!-- FOOTER -->
   <footer>
-    <span>&copy; 2025 PocketKnife Projects</span>
+    <span>&copy; 2026 PocketKnife Projects</span>
     <a href="support.html">Support</a>
     <a href="mailto:scottkotowicz@gmail.com">Contact</a>
   </footer>
