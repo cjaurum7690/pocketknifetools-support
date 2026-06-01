@@ -3,11 +3,13 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Marketing — PocketKnife Projects</title>
+  <title>PocketKnife Projects — Project Management for Your Pocket</title>
+  <meta name="description" content="Run your projects from start to finish. Milestones, budget, risks, meetings, and more — all offline, all on your iPhone." />
   <style>
     :root {
       --bg: #0e0f11;
       --surface: #1a1b1e;
+      --surface-high: #222428;
       --border: #2a2b2f;
       --accent: #c9a84c;
       --text: #f0f0f0;
@@ -364,7 +366,7 @@
 
   <!-- NAV -->
   <nav>
-    <a class="nav-logo">⚒ POCKETKNIFE PROJECTS</a>
+    <a class="nav-logo" href="#">⚒ POCKETKNIFE PROJECTS</a>
     <ul class="nav-links">
       <li><a href="#features">Features</a></li>
       <li><a href="#how-it-works">How It Works</a></li>
@@ -376,8 +378,7 @@
   <div class="hero">
     <p class="hero-eyebrow">Available on the App Store</p>
     <h1>Run your projects.<br /><span>Not your subscriptions.</span></h1>
-    <p>A full project management toolkit that lives entirely on your iPhone or iPad. 
-      No account, no cloud, no monthly fee — just your work, organized.</p>
+    <p>A full project management toolkit that lives entirely on your iPhone. No account, no cloud, no monthly fee — just your work, organized.</p>
     <div class="hero-btns">
       <a class="btn-primary" href="#">Download on the App Store</a>
       <a class="btn-secondary" href="#features">See what's inside</a>
